@@ -6,9 +6,13 @@ package com.module.algorithms;
  * 
  * Sample input						Sample Output
  * 1 5 3 7 2							2		
- * 5 3 7 2 6 4 5 9 1 2					14
- * 1 2 1 1 4 1 1 2 5 3 4				11
+ * 5 3 7 2 6 4 5 9 1 2						14
+ * 1 2 1 1 4 1 1 2 5 3 4					11
  */
+
+/*
+* @author himanjan
+*/
 
 import java.util.ArrayList;
 import java.util.List;
